@@ -20,6 +20,8 @@ Latex does not, instead requiring:
 \end{align*}
 ```
 
+The Latex syntax interferes with treesitter parsing and RStudio's live preview feature.
+
 This extension converts the Mathjax compatible syntax to Latex compatible syntax on render.
 
 ## Installation
