@@ -1,0 +1,36 @@
+---
+title: "Extension Example"
+filters:
+  - escape_nested_tex
+format: 
+  pdf: default
+  html: default
+---
+
+Align*
+$$
+  \begin{align*}
+    x^2
+  \end{align*}
+$$
+
+Alignat*
+$$
+  \begin{alignat*}{3}
+    x^2
+  \end{alignat*}
+$$
+
+Multline*
+$$
+  \begin{multline*}
+    x^2 
+  \end{multline*}
+$$
+
+Gather*
+$$
+  \begin{gather*}
+    x^2
+  \end{gather*}
+$$
