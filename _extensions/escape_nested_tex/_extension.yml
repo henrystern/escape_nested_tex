@@ -1,0 +1,8 @@
+title: Escape_nested_tex
+author: Henry Stern
+version: 1.0.0
+quarto-required: ">=1.4.0"
+contributes:
+  filters:
+    - escape_nested_tex.lua
+
